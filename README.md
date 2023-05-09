@@ -1,2 +1,2 @@
 # hello-world
-this is very complex code
+First public repository.
